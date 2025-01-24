@@ -313,7 +313,7 @@ fun LoginScreenContent(
                 buttonType = ButtonTypeWithLine.CircularButton,
                 horizontalArrangement = Arrangement.Center,
                 buttonStyle = { modifier ->
-                    modifier.fillMaxWidth().padding(horizontal = 32.dp)
+                    modifier.fillMaxWidth().padding(horizontal = 31.dp)
                 },
             )
         }
